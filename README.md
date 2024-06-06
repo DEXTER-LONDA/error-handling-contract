@@ -49,7 +49,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "ErrorHandlingContract" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it by calling the sayHello function. Click on the "HelloWorld" contract in the left-hand sidebar, and then enter the value in the "setValue" function. Finally, click on the "transact" button to execute the function and then call "value" to check the current value.
+Once the contract is deployed, you can interact with it. Click on the "HelloWorld" contract in the left-hand sidebar, and then enter the value in the "setValue" function. Finally, click on the "transact" button to execute the function and then call "value" to check the current value.
 
 give the values of numerator to "_num" and denomenator to "_denom" then click on the "transact" button it will show the answer of division.
 
